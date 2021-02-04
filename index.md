@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+# Scrat.cf
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Scrat.cf</title>
-  <script>
-    if (!isNaN(Number(location.hash.slice(1))) && location.hash.slice(1).length == 9) {
-      location.href = `//scratch.mit.edu/projects/${location.hash.slice(1)}`;
-    }
-  </script>
-</head>
+Hello! If you came here, it means you followed broken **scrat.cf** link or just typed **scrat.cf**. Don't be afraid of clicking **scrat.cf** links, they will always redirect you to Scratch project (if they are not broken).
 
-</html>
+<script>
+  if (!isNaN(Number(location.hash.slice(1))) && location.hash.slice(1).length == 9) {
+    location.href = `//scratch.mit.edu/projects/${location.hash.slice(1)}`;
+  }
+</script>
