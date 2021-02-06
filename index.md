@@ -1,4 +1,4 @@
-# Scrat.cf
+# Home
 
 Hello! If you came here, it means you followed broken **scrat.cf** link or just typed **scrat.cf**. Don't be afraid of clicking **scrat.cf** links, they will always redirect you to Scratch project (if they are not broken).
 
